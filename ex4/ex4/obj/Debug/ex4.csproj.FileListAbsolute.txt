@@ -1,0 +1,7 @@
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\bin\Debug\ex4.exe.config
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\bin\Debug\ex4.exe
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\bin\Debug\ex4.pdb
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\obj\Debug\ex4.csproj.AssemblyReference.cache
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\obj\Debug\ex4.exe
+D:\MonstarLabVietNam\baiTap\firstExercises\ex4\ex4\obj\Debug\ex4.pdb
