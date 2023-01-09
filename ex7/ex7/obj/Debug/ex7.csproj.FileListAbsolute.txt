@@ -1,0 +1,6 @@
+D:\MonstarLabVietNam\baiTap\firstExercises\ex7\ex7\bin\Debug\ex7.exe.config
+D:\MonstarLabVietNam\baiTap\firstExercises\ex7\ex7\bin\Debug\ex7.exe
+D:\MonstarLabVietNam\baiTap\firstExercises\ex7\ex7\bin\Debug\ex7.pdb
+D:\MonstarLabVietNam\baiTap\firstExercises\ex7\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+D:\MonstarLabVietNam\baiTap\firstExercises\ex7\ex7\obj\Debug\ex7.exe
+D:\MonstarLabVietNam\baiTap\firstExercises\ex7\ex7\obj\Debug\ex7.pdb
