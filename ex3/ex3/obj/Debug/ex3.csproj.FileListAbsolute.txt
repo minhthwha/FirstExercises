@@ -1,0 +1,7 @@
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\bin\Debug\ex3.exe.config
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\bin\Debug\ex3.exe
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\bin\Debug\ex3.pdb
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\obj\Debug\ex3.exe
+D:\MonstarLabVietNam\baiTap\firstExercises\ex3\ex3\obj\Debug\ex3.pdb
