@@ -1,7 +1,0 @@
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\bin\Debug\ex6.exe.config
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\bin\Debug\ex6.exe
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\bin\Debug\ex6.pdb
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\obj\Debug\ex6.csproj.AssemblyReference.cache
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\obj\Debug\ex6.exe
-D:\MonstarLabVietNam\baiTap\firstExercises\ex6\ex6\obj\Debug\ex6.pdb
