@@ -1,7 +1,0 @@
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\bin\Debug\ex9.exe.config
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\bin\Debug\ex9.exe
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\bin\Debug\ex9.pdb
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\obj\Debug\ex9.csproj.AssemblyReference.cache
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\obj\Debug\ex9.csproj.CoreCompileInputs.cache
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\obj\Debug\ex9.exe
-D:\MonstarLabVietNam\baiTap\firstExercises\ex9\ex9\obj\Debug\ex9.pdb
