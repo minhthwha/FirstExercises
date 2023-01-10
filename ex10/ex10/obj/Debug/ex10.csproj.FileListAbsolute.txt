@@ -1,7 +1,0 @@
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\bin\Debug\ex10.exe.config
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\bin\Debug\ex10.exe
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\bin\Debug\ex10.pdb
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\obj\Debug\ex10.csproj.AssemblyReference.cache
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\obj\Debug\ex10.csproj.CoreCompileInputs.cache
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\obj\Debug\ex10.exe
-D:\MonstarLabVietNam\baiTap\firstExercises\ex10\ex10\obj\Debug\ex10.pdb
